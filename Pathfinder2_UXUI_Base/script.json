@@ -1,0 +1,12 @@
+{
+    "name": "Pathfinder2_UXUI_Base",
+    "script": "pf2_uxui_base.js",
+    "version": "1.0",
+    "description": "The base file for the Pathfinder2 UXUI suite of mods by William W. Holds the base interaction files for the log, character sheets, and chat.",
+    "authors": "William W.",
+    "roll20userid": "10137581",
+    "useroptions": [],
+    "dependencies": [],
+    "conflicts": [],
+    "previousversions": []
+}
